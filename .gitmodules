@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-design"]
+	path = apps/qtcloud-design
+	url = https://github.com/quanttide/qtcloud-design.git
+[submodule "packages/quanttide-design-toolkit"]
+	path = packages/quanttide-design-toolkit
+	url = https://github.com/quanttide/quanttide-design-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-interaction-design.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-interaction-design.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-interaction-design.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-interaction-design.git
