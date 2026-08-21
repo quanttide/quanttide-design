@@ -27,6 +27,7 @@
 | `examples/default` | 交互设计实验室 (git submodule → quanttide-laboratory-of-interaction-design) |
 | `data/context` | 交互设计语境 (git submodule → quanttide-context-of-interaction-design) |
 | `data/journal` | 交互设计日志 (git submodule → quanttide-journal-of-interaction-design) |
+| `data/profile` | 交互设计档案 (git submodule → quanttide-profile-of-interaction-design) |
 | `data/intention` | 交互设计意图 (git submodule → quanttide-intention-of-interaction-design) |
 
 ## 许可
