@@ -1,12 +1,10 @@
-# quanttide-design
-
-量潮交互设计
+# 量潮交互设计
 
 ## 概述
 
 量潮交互设计（quanttide-design）是量潮知识管理体系中的**交互设计**领域，以工程化方式承载产品界面布局与交互流程的设计实践。
 
-> **领域使命**：整合来自各个产品的交互设计经验，形成一套统一的交互设计语言——而不是各个产品各自为战。各产品是经验的实践场，本领域是经验的整合场。详见 [`data/intention/index.md`](data/intention/index.md)。
+本领域整合来自各个应用的交互设计经验，形成一套统一的交互设计语言——而不是各个应用各自为战。各应用是经验的实践场，本领域是经验的整合场。
 
 ## 领域边界
 
@@ -20,15 +18,13 @@
 
 ## 子模块
 
-| 路径 | 说明 |
-|------|------|
-| `apps/qtcloud-design` | QtCloud 交互设计云 (git submodule) |
-| `packages/quanttide-design-toolkit` | 交互设计工具集 (git submodule) |
-| `examples/default` | 交互设计实验室 (git submodule → quanttide-laboratory-of-interaction-design) |
-| `data/context` | 交互设计语境 (git submodule → quanttide-context-of-interaction-design) |
-| `data/journal` | 交互设计日志 (git submodule → quanttide-journal-of-interaction-design) |
-| `data/profile` | 交互设计档案 (git submodule → quanttide-profile-of-interaction-design) |
-| `data/intention` | 交互设计意图 (git submodule → quanttide-intention-of-interaction-design) |
+- `apps/qtcloud-design` — QtCloud 交互设计云
+- `packages/quanttide-design-toolkit` — 交互设计工具集
+- `examples/default` — 交互设计实验室
+- `data/context` — 交互设计语境
+- `data/journal` — 交互设计日志
+- `data/profile` — 交互设计档案，其中 `quanttide/` 为通用设计语言保留项
+- `data/intention` — 交互设计意图
 
 ## 许可
 
