@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-design-lab`（仓 quanttide-laboratory-of-interaction-design → quanttide-design-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtcloud-design`、`packages/quanttide-design-toolkit`、`examples/default`

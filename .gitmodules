@@ -4,9 +4,9 @@
 [submodule "packages/quanttide-design-toolkit"]
 	path = packages/quanttide-design-toolkit
 	url = https://github.com/quanttide/quanttide-design-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-interaction-design.git
+[submodule "examples/quanttide-design-lab"]
+	path = examples/quanttide-design-lab
+	url = https://github.com/quanttide/quanttide-design-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-interaction-design.git

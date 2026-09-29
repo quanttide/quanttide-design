@@ -20,7 +20,7 @@
 
 - `apps/qtcloud-design` — QtCloud 交互设计云
 - `packages/quanttide-design-toolkit` — 交互设计工具集
-- `examples/default` — 交互设计实验室
+- `examples/quanttide-design-lab` — 交互设计实验室
 - `data/context` — 交互设计语境
 - `data/journal` — 交互设计日志
 - `data/profile` — 交互设计档案，其中 `quanttide/` 为通用设计语言保留项
