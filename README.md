@@ -19,7 +19,7 @@
 ## 子模块
 
 - `apps/qtcloud-design` — QtCloud 交互设计云
-- `packages/quanttide-design-toolkit` — 交互设计工具集
+- `packages/quanttide-design-toolkit` — 交互设计标准库
 - `examples/quanttide-design-lab` — 交互设计实验室
 - `data/context` — 交互设计语境
 - `data/journal` — 交互设计日志
