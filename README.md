@@ -25,6 +25,9 @@
 - `data/journal` — 交互设计日志
 - `data/profile` — 交互设计档案，其中 `quanttide/` 为通用设计语言保留项
 - `data/intention` — 交互设计意图
+- `data/insight` — 交互设计洞察
+- `data/roadmap` — 交互设计路线图
+- `data/brochure` — 交互设计宣传册
 
 ## 许可
 
